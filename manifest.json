@@ -3,8 +3,8 @@
     "test_name": "Test that Dani is a Person",
     "ontology": "asio.ttl",
     "data": "asio-individuals.ttl",
-    "schema": "schemas.s",
-    "in_shape_map": "shapemap_in.m",
-    "out_shape_map": "shapemap_out.m"
+    "schema": "schemas.shex",
+    "in_shape_map": "shapemap_in.sm",
+    "out_shape_map": "shapemap_out.sm"
   }
 ]
