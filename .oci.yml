@@ -1,3 +1,3 @@
 manifestPath: manifest.json
-ontologyFolder: src
+ontologyFolder: current
 testFolder: test
