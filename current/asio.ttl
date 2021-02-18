@@ -46,4 +46,5 @@ asio:ResearchInstitute rdf:type owl:Class ;
                                       "Research institute"@en .
 
 
-asio:ResearchInstitute rdf:type owl:Pablo;
+asio:Pablo rdf:type owl:Class .
+asio:Alex rdf:type owl:Class .
