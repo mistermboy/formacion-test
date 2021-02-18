@@ -21,3 +21,6 @@ asioIndividuals:DanielFernandezAlvarez rdf:type owl:NamedIndividual ;
                                        asio:isGrantedWith asioIndividuals:MarieCurieGrant ;
                                        rdfs:label "Daniel Fernández Álvarez"@en ,
                                                   "Daniel Fernández Álvarez"@es .
+
+
+asioIndividuals:WESO rdf:type owl:NamedIndividual ,asio:ResearchInstitute .
